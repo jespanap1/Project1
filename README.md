@@ -9,4 +9,5 @@ proporcionado.
 https://www.tinkercad.com/things/dHq9pH79Emg
 
 Descripción del Proyecto
+
 Este proyecto fue creado con la finalidad de describir brevemente el pilar sobre el cual se va a basar nuestro trabajo del sistema de gestión de plazas de parqueadero.
